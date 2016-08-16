@@ -1,0 +1,927 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Damien Chavarria <roy204@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#
+# Translation template file.
+#
+msgid "Add bars..."
+msgstr "Ajouter des mesures..."
+
+msgid "Insert line break"
+msgstr "Insérer un retour à la ligne"
+
+msgid "Change Bar Header"
+msgstr "Changer l'entête de mesure"
+
+msgid "Change Bar Section Number"
+msgstr "Changer le numéro de section"
+
+msgid "Change Bars Per Row"
+msgstr "Changer le nombre de mesures par ligne"
+
+msgid "Change Bar Type"
+msgstr "Changer le type de mesure"
+
+msgid "Change Key"
+msgstr "Changer la tonalité"
+
+msgid "Change Tuning"
+msgstr "Changer l'accordage"
+
+#
+# Translation template file.
+#
+msgid "Croque-Note"
+msgstr "Croque-Note"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Please select your preferred language:"
+msgstr "Sélectionnez la langue désirée pour l'application :"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Croque-Note : Select a Chord"
+msgstr "Croque-Note: Sélectionner un accord"
+
+msgid "Version 1.0.0"
+msgstr "Version 1.0.0"
+
+msgid "Copyright (c) 2010 - Ketchup Apps"
+msgstr "Copyright (c) 2010 - Ketchup Apps"
+
+msgid "Croque-Note: Quit"
+msgstr "Croque-Note : Quitter"
+
+msgid "There are unsaved changes in the current document. Do you want to save these changes before exiting?"
+msgstr "Il y a des changements non enregistrés dans le document en cours. Voulez-vous les sauvegarder avant de quitter ?"
+
+msgid "res|INFO"
+msgstr "res|INFO"
+
+msgid "Change Title"
+msgstr "Changer le titre"
+
+msgid "Change Subtitle"
+msgstr "Changer le sous-titre"
+
+msgid "Change Tempo"
+msgstr "Changer le tempo"
+
+msgid "Change Capo"
+msgstr "Changer le capo"
+
+msgid "Change..."
+msgstr "Changer..."
+
+msgid "Not Selected"
+msgstr "Non Sélectionné"
+
+msgid "Select..."
+msgstr "Sélectionner..."
+
+#
+# Translation template file.
+#
+msgid "Add Bars"
+msgstr "Ajouter des mesures"
+
+msgid "How many bars do you want to add?"
+msgstr "Combien de mesures souhaitez-vous ajouter ?"
+
+msgid "Croque-Note - New Document *"
+msgstr "Croque-Note : Nouveau Document *"
+
+#
+# Translation template file.
+#
+msgid "Croque-Note - "
+msgstr "Croque-Note - "
+
+msgid "Croque-Note: New Document"
+msgstr "Croque-Note : Nouveau Document"
+
+msgid "There are unsaved changes in the current document. Do you want to save these changes first?"
+msgstr "Il y a des changements non enregistrés dans le document en cours. Voulez-vous les sauvegarder d'abord ?"
+
+msgid "Croque-Note - New Document"
+msgstr "Croque-Note - Nouveau Document"
+
+msgid "Croque-Note: Open a Document"
+msgstr "Croque-Note : Ouvrir un Document"
+
+msgid "Croque-Note Documents"
+msgstr "Documents Croque-Note"
+
+msgid "All Files"
+msgstr "Tous les Fichiers"
+
+msgid "Croque-Note: Save Document"
+msgstr "Croque-Note : Sauver le Document"
+
+msgid "Untitled.chd"
+msgstr "Sans Titre.chd"
+
+msgid "Croque-Note: Export"
+msgstr "Croque-Note : Exporter"
+
+msgid "Untitled"
+msgstr "Sans Titre"
+
+msgid "Croque-Note: Export Document"
+msgstr "Croque-Note : Exporter le document"
+
+msgid "JPEG Images"
+msgstr "Images JPEG"
+
+msgid "PNG Images"
+msgstr "Images PNG"
+
+msgid "PDF Documents"
+msgstr "Documents PDF"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Create a new Document"
+msgstr "Créer un nouveau Document"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Open a Document"
+msgstr "Ouvrir un Document"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Save the current Document"
+msgstr "Enregistrer le Document actuel"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Print the current Document"
+msgstr "Imprimer le Document actuel"
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Export the current Document to various other formats"
+msgstr "Exporter le Document actuel vers d'autres formats"
+
+msgid "Notation"
+msgstr "Notation"
+
+msgid "Latin Notation (Do Re Mi...),US-UK Notation (C D E...)"
+msgstr "Notation Latine (Do Ré Mi...),Notation US-UK (C D E...)"
+
+msgid "Tune the program settings"
+msgstr "Régler les options du programme"
+
+msgid "Title: Click to edit"
+msgstr "Titre : Cliquer pour modifier"
+
+msgid "Subtitle: Click to edit"
+msgstr "Sous-titre : Cliquer pour modifier"
+
+msgid "Capo"
+msgstr "Capo"
+
+msgid "Zoom:"
+msgstr "Zoom :"
+
+msgid "Document Properties,Bar Properties"
+msgstr "Propriétés du Document,Propriétés des mesures"
+
+msgid "Title:"
+msgstr "Titre :"
+
+msgid "Subtitle:"
+msgstr "Sous-titre :"
+
+msgid "Tuning:"
+msgstr "Accordage : "
+
+msgid "Show Tuning:"
+msgstr "Afficher l'accordage :"
+
+msgid "Show capo:"
+msgstr "Afficher le capo :"
+
+msgid "Show tempo:"
+msgstr "Afficher le tempo :"
+
+msgid "Show key:"
+msgstr "Afficher la tonalité :"
+
+msgid "Display"
+msgstr "Afficher"
+
+msgid " bars per row"
+msgstr " mesures par ligne"
+
+msgid "Notes:"
+msgstr "Notes:"
+
+msgid "Show chord diagrams     "
+msgstr "Afficher les diagrammes d'accords"
+
+msgid "Bar Type:"
+msgstr "Type de Mesure :"
+
+msgid "Chords:"
+msgstr "Accords :"
+
+msgid "Markups:"
+msgstr "Attributs :"
+
+msgid "Header:"
+msgstr "Entête :"
+
+msgid "Display "
+msgstr "Afficher"
+
+msgid "Show chord diagrams"
+msgstr "Afficher les diagrammes"
+
+msgid "Creates a JPEG image from the contents of your document. This image can then be shared on the web or printed with an external program."
+msgstr "Crée un fichier image JPG a partir du contenu du document actuel. Cette image peut ensuite être partagée sur Internet ou imprimée avec un programme tiers."
+
+msgid "JPEG Image size : "
+msgstr "Dimensions de l'image JPEG : "
+
+msgid " pixels"
+msgstr "pixels"
+
+msgid "JPEG Quality : "
+msgstr "Qualité JPEG : "
+
+msgid "Creates a PNG image from the contents of your document. This image can then be shared on the web or printed with an external program."
+msgstr "Crée un fichier image PNG a partir du contenu du document actuel. Cette image peut ensuite être partagée sur Internet ou imprimée avec un programme tiers."
+
+msgid "PNG Image size : "
+msgstr "Dimensions de l'image PNG : "
+
+msgid "Creates a PDF file from the contents of your document. This PDF can then be edited or printed with an external program."
+msgstr "Crée un fichier PDF a partir du document actuel. Ce fichier PDF peut ensuite être édité ou imprimé depuis un programme tiers."
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Hide Capo"
+msgstr "Cacher le capo"
+
+msgid "Hide Tempo"
+msgstr "Cacher le tempo"
+
+#
+# Translation template file.
+#
+msgid "Insert bars..."
+msgstr "Inserer des mesures..."
+
+msgid "Paste"
+msgstr "Coller"
+
+msgid "&File"
+msgstr "&Fichier"
+
+msgid "&New..."
+msgstr "&Nouveau..."
+
+msgid "&Open..."
+msgstr "&Ouvrir..."
+
+msgid "Open &Recent"
+msgstr "Ouvrir un fichier &récent"
+
+msgid "&Save"
+msgstr "&Enregistrer"
+
+msgid "Save &As..."
+msgstr "Enregistrer &sous..."
+
+msgid "&Export..."
+msgstr "E&xporter"
+
+msgid "&Print..."
+msgstr "Im&primer..."
+
+msgid "&Quit"
+msgstr "&Quitter"
+
+msgid "&Edit"
+msgstr "&Edition"
+
+msgid "&Undo"
+msgstr "&Annuler"
+
+msgid "&Redo"
+msgstr "&Rétablir"
+
+msgid "Cu&t"
+msgstr "Cou&per"
+
+msgid "&Copy"
+msgstr "&Copier"
+
+msgid "&Paste"
+msgstr "Co&ller"
+
+msgid "Select &All"
+msgstr "Tout &sélectionner"
+
+msgid "&Tools"
+msgstr "&Outils"
+
+msgid "&Transpose..."
+msgstr "&Transposer..."
+
+msgid "&Options..."
+msgstr "O&ptions..."
+
+msgid "&Help"
+msgstr "&Aide"
+
+msgid "H&elp..."
+msgstr "&Aide..."
+
+msgid "&About Croque-Note..."
+msgstr "&A propos de Croque-Note..."
+
+msgid "About Croque-Note..."
+msgstr "A propos de Croque-Note..."
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "New..."
+msgstr "Nouveau..."
+
+msgid "Open..."
+msgstr "Ouvrir..."
+
+msgid "Open Recent File"
+msgstr "Ouvrir un fichier récent"
+
+msgid "Save As..."
+msgstr "Enregistrer sous..."
+
+msgid "Export..."
+msgstr "Exporter..."
+
+msgid "Print..."
+msgstr "Imprimer..."
+
+msgid "Edit"
+msgstr "Edition"
+
+msgid "Undo"
+msgstr "Annuler"
+
+msgid "Redo"
+msgstr "Rétablir"
+
+msgid "Cut"
+msgstr "Couper"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Transpose..."
+msgstr "Transposer..."
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Croque-Note Help..."
+msgstr "Aide de Croque-Note..."
+
+msgid "Show Capo"
+msgstr "Afficher le capo"
+
+msgid "Show Tempo"
+msgstr "Afficher le tempo"
+
+msgid "Show Key"
+msgstr "Afficher la tonalité"
+
+msgid "Hide Key"
+msgstr "Cacher la tonalité"
+
+msgid "Add Repeat Marker"
+msgstr "Ajouter un marqueur de répétition"
+
+msgid "Remove Repeat Marker"
+msgstr "Supprimer un marqueur de répétition"
+
+msgid "Add Section Marker"
+msgstr "Ajouter un numéro de section"
+
+msgid "Remove Section Marker"
+msgstr "Supprimer un numéro de section"
+
+msgid "Show Chord Diagrams"
+msgstr "Afficher les diagrammes"
+
+msgid "Hide Chord Diagrams"
+msgstr "Cacher les diagrammes"
+
+msgid "Show Tuning"
+msgstr "Afficher l'accordage"
+
+msgid "Hide Tuning"
+msgstr "Cacher l'accordage"
+
+msgid "English (US)"
+msgstr "Anglais (US)"
+
+msgid "French (France)"
+msgstr "Français (France)"
+
+msgid "About"
+msgstr "A propos de "
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Major"
+msgstr "Majeur"
+
+msgid "m"
+msgstr "m"
+
+msgid "Minor"
+msgstr "Mineur"
+
+msgid "sus4"
+msgstr "sus4"
+
+msgid "Sus4"
+msgstr "Sus4"
+
+msgid "sus2"
+msgstr "sus2"
+
+msgid "Sus2"
+msgstr "Sus2"
+
+msgid "7"
+msgstr "7"
+
+msgid "7th"
+msgstr "Septième"
+
+msgid "7M"
+msgstr "7M"
+
+msgid "Major7th"
+msgstr "Septième majeure"
+
+msgid "m7"
+msgstr "m7"
+
+msgid "Minor 7th"
+msgstr "Septième mineure"
+
+msgid "m7M"
+msgstr "m7M"
+
+msgid "Minor Major7th"
+msgstr "Mineur septième majeure"
+
+msgid "6"
+msgstr "6"
+
+msgid "6th"
+msgstr "Sixième"
+
+msgid "m6"
+msgstr "m6"
+
+msgid "Minor 6th"
+msgstr "Mineur sixième"
+
+msgid "aug"
+msgstr "aug"
+
+msgid "Augmented"
+msgstr "Augmenté"
+
+msgid "dim"
+msgstr "dim"
+
+msgid "Diminished"
+msgstr "Diminué"
+
+msgid "dim7"
+msgstr "dim7"
+
+msgid "Dim7th"
+msgstr "Septième diminué"
+
+msgid "add9"
+msgstr "add9"
+
+msgid "Added 9th"
+msgstr "Add 9"
+
+msgid "madd9"
+msgstr "madd9"
+
+msgid "Minor Add9th"
+msgstr "Mineur add 9"
+
+msgid "9"
+msgstr "9"
+
+msgid "9th"
+msgstr "Neuvième"
+
+msgid "9M"
+msgstr "9M"
+
+msgid "Major9th"
+msgstr "Neuvième Majeure"
+
+msgid "m9"
+msgstr "m9"
+
+msgid "Minor 9th"
+msgstr "Mineur Neuvième"
+
+msgid "m9M"
+msgstr "m9M"
+
+msgid "Minor Major9th"
+msgstr "Mineur Neuvième Majeure"
+
+msgid "11"
+msgstr "11"
+
+msgid "11th"
+msgstr "Onzième"
+
+msgid "m11"
+msgstr "m11"
+
+msgid "Minor 11th"
+msgstr "Onzième mineur"
+
+msgid "6/9"
+msgstr "6/9"
+
+msgid "Sixth/Ninth"
+msgstr "Six/Neuf"
+
+msgid "m6/9"
+msgstr "m6/9"
+
+msgid "Minor 6/9"
+msgstr "6/9 mineur"
+
+msgid "13"
+msgstr "13"
+
+msgid "13th"
+msgstr "Treizième"
+
+msgid "m13"
+msgstr "m13"
+
+msgid "Minor 13th"
+msgstr "Treizième mineur"
+
+msgid "7sus2"
+msgstr "7sus2"
+
+msgid "Seventh Sus2"
+msgstr "Septième Sus2"
+
+msgid "7sus4"
+msgstr "7sus4"
+
+msgid "Seventh Sus4"
+msgstr "Septième Sus4"
+
+msgid "Not a chord!"
+msgstr "Pas un accord!"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Fundamental"
+msgstr "Fondamentale"
+
+msgid "Minor Second"
+msgstr "Seconde mineure"
+
+msgid "Major Second"
+msgstr "Seconde majeure"
+
+msgid "Minor Third"
+msgstr "Tierce mineure"
+
+msgid "Major Third"
+msgstr "Tièrce majeure"
+
+msgid "Fourth"
+msgstr "Quarte"
+
+msgid "Diminished Fifth"
+msgstr "Quinte diminuée"
+
+msgid "Fifth"
+msgstr "Quinte"
+
+msgid "Augmented Fifth"
+msgstr "Quinte augmentée"
+
+msgid "Sixth"
+msgstr "Sixième"
+
+msgid "Minor Seventh"
+msgstr "Septième mineure"
+
+msgid "Major Seventh"
+msgstr "Septième majeure"
+
+msgid "Octave"
+msgstr "Octave"
+
+msgid "Diminished Ninth"
+msgstr "Neuvième diminuée"
+
+msgid "Ninth"
+msgstr "Neuvième"
+
+msgid "Augmented Ninth"
+msgstr "Neuvième augmentée"
+
+msgid "Tenth"
+msgstr "Dixième"
+
+msgid "Eleventh"
+msgstr "Onzième"
+
+msgid "Diminished Twelvth"
+msgstr "Douzième diminuée"
+
+msgid "Twelvth"
+msgstr "Douxième"
+
+msgid "Augmented Twelvth"
+msgstr "Douxième augmentée"
+
+msgid "Thirteenth"
+msgstr "Treizième"
+
+msgid "Root"
+msgstr "Fond"
+
+msgid "2nd min"
+msgstr "2nde min"
+
+msgid "2nd"
+msgstr "2nde"
+
+msgid "3rd min"
+msgstr "3ce min"
+
+msgid "3rd"
+msgstr "3ce"
+
+msgid "4th"
+msgstr "4te"
+
+msgid "5th dim"
+msgstr "5te dim"
+
+msgid "5th"
+msgstr "5te"
+
+msgid "5th aug"
+msgstr "5te aug"
+
+msgid "7th min"
+msgstr "7ème min"
+
+msgid "7th maj"
+msgstr "7ème maj"
+
+msgid "9th dim"
+msgstr "9ème dim"
+
+msgid "9th aug"
+msgstr "9ème aug"
+
+msgid "10th"
+msgstr "10ème"
+
+msgid "12th dim"
+msgstr "12ème dim"
+
+msgid "12th"
+msgstr "12ème"
+
+msgid "12th aug"
+msgstr "12ème aug"
+
+msgid "??"
+msgstr "??"
+
+msgid "Do"
+msgstr "Do"
+
+msgid "Do#"
+msgstr "Do#"
+
+msgid "Reb"
+msgstr "Reb"
+
+msgid "Re"
+msgstr "Ré"
+
+msgid "Re#"
+msgstr "Ré#"
+
+msgid "Mib"
+msgstr "Mib"
+
+msgid "Mi"
+msgstr "Mi"
+
+msgid "Fa"
+msgstr "Fa"
+
+msgid "Fa#"
+msgstr "Fa#"
+
+msgid "Solb"
+msgstr "Solb"
+
+msgid "Sol"
+msgstr "Sol"
+
+msgid "Sol#"
+msgstr "Sol#"
+
+msgid "Lab"
+msgstr "Lab"
+
+msgid "La"
+msgstr "La"
+
+msgid "La#"
+msgstr "La#"
+
+msgid "Sib"
+msgstr "Sib"
+
+msgid "Si"
+msgstr "Si"
+
+msgid "C"
+msgstr "C"
+
+msgid "C#"
+msgstr "C#"
+
+msgid "Cb"
+msgstr "Cb"
+
+msgid "D"
+msgstr "D"
+
+msgid "D#"
+msgstr "D#"
+
+msgid "Eb"
+msgstr "Eb"
+
+msgid "E"
+msgstr "E"
+
+msgid "F"
+msgstr "F"
+
+msgid "F#"
+msgstr "F#"
+
+msgid "Gb"
+msgstr "Gb"
+
+msgid "G"
+msgstr "G"
+
+msgid "G#"
+msgstr "G#"
+
+msgid "Ab"
+msgstr "Ab"
+
+msgid "A"
+msgstr "A"
+
+msgid "A#"
+msgstr "A#"
+
+msgid "Bb"
+msgstr "Bb"
+
+msgid "B"
+msgstr "B"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Half-Step Down"
+msgstr "Un demi-ton plus bas"
+
+msgid "Whole-Step Down"
+msgstr "Un ton plus bas"
+
+msgid "Drop D"
+msgstr "Drop D"
+
+msgid "Open G"
+msgstr "Sol ouvert"
+
+msgid "Dadgad"
+msgstr "Dadgad"
+
+msgid " Chord Library"
+msgstr " Librairie d'Accords"
+
+msgid "Quick Search"
+msgstr "Recherche rapide"
+
+msgid "Root Note:"
+msgstr "Fondamentale :"
+
+msgid "Alterations:"
+msgstr "Altérations :"
+
+msgid "Bass:"
+msgstr "Basse :"
+
+msgid "Look for more variations using open strings"
+msgstr "Trouver plus d'accords en utilisant les cordes à vide"
+
+msgid "Chord Type:"
+msgstr "Type d'Accord:"
+
+msgid "Choose this Chord"
+msgstr "Choisir cet Accord"
+
+msgid "Undo \"%1\""
+msgstr "Annuler \"%1\""
+
+msgid "Redo \"%1\""
+msgstr "Rétablir \"%1\""
+
+msgid "No recent files yet..."
+msgstr "Pas de fichiers récents..."
+
+msgid "Clear this Menu"
+msgstr "Effacer ce menu"
+
+#~ msgid "Standard (EADGBE)"
+#~ msgstr "Standard (EADGBE)"
+
+#~ msgid "C,C#,D,D#,E,F,F#,G,G#,A,A#,B"
+#~ msgstr "C,C#,D,D#,E,F,F#,G,G#,A,A#,B"
+
+#~ msgid "Chord Library"
+#~ msgstr "Librairie d'Accords"
+
+#~ msgid "Standard Tuning (EADGBE)"
+#~ msgstr "Accordage Standard (EADGBE)"
+
+#~ msgid "There are unsaved changes in the current document. "
+#~ msgstr "Il y a des changements non sauvegardés dans le document en cours."

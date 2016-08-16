@@ -1,0 +1,1 @@
+#define CROQUE_NOTE_VERSION "0.1.103"

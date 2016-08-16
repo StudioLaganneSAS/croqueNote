@@ -1,0 +1,888 @@
+#                            
+# Translation template file. 
+#                            
+
+msgid "Add bars..."
+msgstr ""
+
+msgid "Insert line break"
+msgstr ""
+
+msgid "Change Bar Header"
+msgstr ""
+
+msgid "Change Bar Section Number"
+msgstr ""
+
+msgid "Change Bars Per Row"
+msgstr ""
+
+msgid "Change Bar Type"
+msgstr ""
+
+msgid "Change Key"
+msgstr ""
+
+msgid "Change Tuning"
+msgstr ""
+
+msgid "Croque-Note"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Please select your preferred language:"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Croque-Note : Select a Chord"
+msgstr ""
+
+msgid "Version 1.0.0"
+msgstr ""
+
+msgid "Copyright (c) 2010 - Ketchup Apps"
+msgstr ""
+
+msgid "Croque-Note: Quit"
+msgstr ""
+
+msgid "There are unsaved changes in the current document. Do you want to save these changes before exiting?"
+msgstr ""
+
+msgid "res|INFO"
+msgstr ""
+
+msgid "Change Title"
+msgstr ""
+
+msgid "Change Subtitle"
+msgstr ""
+
+msgid "Change Tempo"
+msgstr ""
+
+msgid "Change Capo"
+msgstr ""
+
+msgid "Change..."
+msgstr ""
+
+msgid "Not Selected"
+msgstr ""
+
+msgid "Select..."
+msgstr ""
+
+msgid "Add Bars"
+msgstr ""
+
+msgid "How many bars do you want to add?"
+msgstr ""
+
+msgid "Croque-Note - New Document *"
+msgstr ""
+
+msgid "Croque-Note - "
+msgstr ""
+
+msgid "Croque-Note: New Document"
+msgstr ""
+
+msgid "There are unsaved changes in the current document. Do you want to save these changes first?"
+msgstr ""
+
+msgid "Croque-Note - New Document"
+msgstr ""
+
+msgid "Croque-Note: Open a Document"
+msgstr ""
+
+msgid "Croque-Note Documents"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "Croque-Note: Save Document"
+msgstr ""
+
+msgid "Untitled.chd"
+msgstr ""
+
+msgid "Croque-Note: Export"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "Croque-Note: Export Document"
+msgstr ""
+
+msgid "JPEG Images"
+msgstr ""
+
+msgid "PNG Images"
+msgstr ""
+
+msgid "PDF Documents"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Create a new Document"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open a Document"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save the current Document"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print the current Document"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Export the current Document to various other formats"
+msgstr ""
+
+msgid "Notation"
+msgstr ""
+
+msgid "Latin Notation (Do Re Mi...),US-UK Notation (C D E...)"
+msgstr ""
+
+msgid "Tune the program settings"
+msgstr ""
+
+msgid "Title: Click to edit"
+msgstr ""
+
+msgid "Subtitle: Click to edit"
+msgstr ""
+
+msgid "Capo"
+msgstr ""
+
+msgid "Zoom:"
+msgstr ""
+
+msgid "Document Properties,Bar Properties"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Subtitle:"
+msgstr ""
+
+msgid "Tuning:"
+msgstr ""
+
+msgid "Show Tuning:"
+msgstr ""
+
+msgid "Show capo:"
+msgstr ""
+
+msgid "Show tempo:"
+msgstr ""
+
+msgid "Show key:"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid " bars per row"
+msgstr ""
+
+msgid "Notes:"
+msgstr ""
+
+msgid "Show chord diagrams     "
+msgstr ""
+
+msgid "Bar Type:"
+msgstr ""
+
+msgid "Chords:"
+msgstr ""
+
+msgid "Markups:"
+msgstr ""
+
+msgid "Header:"
+msgstr ""
+
+msgid "Display "
+msgstr ""
+
+msgid "Show chord diagrams"
+msgstr ""
+
+msgid "Creates a JPEG image from the contents of your document. This image can then be shared on the web or printed with an external program."
+msgstr ""
+
+msgid "JPEG Image size : "
+msgstr ""
+
+msgid " pixels"
+msgstr ""
+
+msgid "JPEG Quality : "
+msgstr ""
+
+msgid "Creates a PNG image from the contents of your document. This image can then be shared on the web or printed with an external program."
+msgstr ""
+
+msgid "PNG Image size : "
+msgstr ""
+
+msgid "Creates a PDF file from the contents of your document. This PDF can then be edited or printed with an external program."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Hide Capo"
+msgstr ""
+
+msgid "Hide Tempo"
+msgstr ""
+
+msgid "Insert bars..."
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "&File"
+msgstr ""
+
+msgid "&New..."
+msgstr ""
+
+msgid "&Open..."
+msgstr ""
+
+msgid "Open &Recent"
+msgstr ""
+
+msgid "&Save"
+msgstr ""
+
+msgid "Save &As..."
+msgstr ""
+
+msgid "&Export..."
+msgstr ""
+
+msgid "&Print..."
+msgstr ""
+
+msgid "&Quit"
+msgstr ""
+
+msgid "&Edit"
+msgstr ""
+
+msgid "&Undo"
+msgstr ""
+
+msgid "&Redo"
+msgstr ""
+
+msgid "Cu&t"
+msgstr ""
+
+msgid "&Copy"
+msgstr ""
+
+msgid "&Paste"
+msgstr ""
+
+msgid "Select &All"
+msgstr ""
+
+msgid "&Tools"
+msgstr ""
+
+msgid "&Transpose..."
+msgstr ""
+
+msgid "&Options..."
+msgstr ""
+
+msgid "&Help"
+msgstr ""
+
+msgid "H&elp..."
+msgstr ""
+
+msgid "&About Croque-Note..."
+msgstr ""
+
+msgid "About Croque-Note..."
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "New..."
+msgstr ""
+
+msgid "Open..."
+msgstr ""
+
+msgid "Open Recent File"
+msgstr ""
+
+msgid "Save As..."
+msgstr ""
+
+msgid "Export..."
+msgstr ""
+
+msgid "Print..."
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Transpose..."
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Croque-Note Help..."
+msgstr ""
+
+msgid "Show Capo"
+msgstr ""
+
+msgid "Show Tempo"
+msgstr ""
+
+msgid "Show Key"
+msgstr ""
+
+msgid "Hide Key"
+msgstr ""
+
+msgid "Add Repeat Marker"
+msgstr ""
+
+msgid "Remove Repeat Marker"
+msgstr ""
+
+msgid "Add Section Marker"
+msgstr ""
+
+msgid "Remove Section Marker"
+msgstr ""
+
+msgid "Show Chord Diagrams"
+msgstr ""
+
+msgid "Hide Chord Diagrams"
+msgstr ""
+
+msgid "Show Tuning"
+msgstr ""
+
+msgid "Hide Tuning"
+msgstr ""
+
+msgid "English (US)"
+msgstr ""
+
+msgid "French (France)"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Major"
+msgstr ""
+
+msgid "m"
+msgstr ""
+
+msgid "Minor"
+msgstr ""
+
+msgid "sus4"
+msgstr ""
+
+msgid "Sus4"
+msgstr ""
+
+msgid "sus2"
+msgstr ""
+
+msgid "Sus2"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "7th"
+msgstr ""
+
+msgid "7M"
+msgstr ""
+
+msgid "Major7th"
+msgstr ""
+
+msgid "m7"
+msgstr ""
+
+msgid "Minor 7th"
+msgstr ""
+
+msgid "m7M"
+msgstr ""
+
+msgid "Minor Major7th"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "6th"
+msgstr ""
+
+msgid "m6"
+msgstr ""
+
+msgid "Minor 6th"
+msgstr ""
+
+msgid "aug"
+msgstr ""
+
+msgid "Augmented"
+msgstr ""
+
+msgid "dim"
+msgstr ""
+
+msgid "Diminished"
+msgstr ""
+
+msgid "dim7"
+msgstr ""
+
+msgid "Dim7th"
+msgstr ""
+
+msgid "add9"
+msgstr ""
+
+msgid "Added 9th"
+msgstr ""
+
+msgid "madd9"
+msgstr ""
+
+msgid "Minor Add9th"
+msgstr ""
+
+msgid "9"
+msgstr ""
+
+msgid "9th"
+msgstr ""
+
+msgid "9M"
+msgstr ""
+
+msgid "Major9th"
+msgstr ""
+
+msgid "m9"
+msgstr ""
+
+msgid "Minor 9th"
+msgstr ""
+
+msgid "m9M"
+msgstr ""
+
+msgid "Minor Major9th"
+msgstr ""
+
+msgid "11"
+msgstr ""
+
+msgid "11th"
+msgstr ""
+
+msgid "m11"
+msgstr ""
+
+msgid "Minor 11th"
+msgstr ""
+
+msgid "6/9"
+msgstr ""
+
+msgid "Sixth/Ninth"
+msgstr ""
+
+msgid "m6/9"
+msgstr ""
+
+msgid "Minor 6/9"
+msgstr ""
+
+msgid "13"
+msgstr ""
+
+msgid "13th"
+msgstr ""
+
+msgid "m13"
+msgstr ""
+
+msgid "Minor 13th"
+msgstr ""
+
+msgid "7sus2"
+msgstr ""
+
+msgid "Seventh Sus2"
+msgstr ""
+
+msgid "7sus4"
+msgstr ""
+
+msgid "Seventh Sus4"
+msgstr ""
+
+msgid "Not a chord!"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Fundamental"
+msgstr ""
+
+msgid "Minor Second"
+msgstr ""
+
+msgid "Major Second"
+msgstr ""
+
+msgid "Minor Third"
+msgstr ""
+
+msgid "Major Third"
+msgstr ""
+
+msgid "Fourth"
+msgstr ""
+
+msgid "Diminished Fifth"
+msgstr ""
+
+msgid "Fifth"
+msgstr ""
+
+msgid "Augmented Fifth"
+msgstr ""
+
+msgid "Sixth"
+msgstr ""
+
+msgid "Minor Seventh"
+msgstr ""
+
+msgid "Major Seventh"
+msgstr ""
+
+msgid "Octave"
+msgstr ""
+
+msgid "Diminished Ninth"
+msgstr ""
+
+msgid "Ninth"
+msgstr ""
+
+msgid "Augmented Ninth"
+msgstr ""
+
+msgid "Tenth"
+msgstr ""
+
+msgid "Eleventh"
+msgstr ""
+
+msgid "Diminished Twelvth"
+msgstr ""
+
+msgid "Twelvth"
+msgstr ""
+
+msgid "Augmented Twelvth"
+msgstr ""
+
+msgid "Thirteenth"
+msgstr ""
+
+msgid "Root"
+msgstr ""
+
+msgid "2nd min"
+msgstr ""
+
+msgid "2nd"
+msgstr ""
+
+msgid "3rd min"
+msgstr ""
+
+msgid "3rd"
+msgstr ""
+
+msgid "4th"
+msgstr ""
+
+msgid "5th dim"
+msgstr ""
+
+msgid "5th"
+msgstr ""
+
+msgid "5th aug"
+msgstr ""
+
+msgid "7th min"
+msgstr ""
+
+msgid "7th maj"
+msgstr ""
+
+msgid "9th dim"
+msgstr ""
+
+msgid "9th aug"
+msgstr ""
+
+msgid "10th"
+msgstr ""
+
+msgid "12th dim"
+msgstr ""
+
+msgid "12th"
+msgstr ""
+
+msgid "12th aug"
+msgstr ""
+
+msgid "??"
+msgstr ""
+
+msgid "Do"
+msgstr ""
+
+msgid "Do#"
+msgstr ""
+
+msgid "Reb"
+msgstr ""
+
+msgid "Re"
+msgstr ""
+
+msgid "Re#"
+msgstr ""
+
+msgid "Mib"
+msgstr ""
+
+msgid "Mi"
+msgstr ""
+
+msgid "Fa"
+msgstr ""
+
+msgid "Fa#"
+msgstr ""
+
+msgid "Solb"
+msgstr ""
+
+msgid "Sol"
+msgstr ""
+
+msgid "Sol#"
+msgstr ""
+
+msgid "Lab"
+msgstr ""
+
+msgid "La"
+msgstr ""
+
+msgid "La#"
+msgstr ""
+
+msgid "Sib"
+msgstr ""
+
+msgid "Si"
+msgstr ""
+
+msgid "C"
+msgstr ""
+
+msgid "C#"
+msgstr ""
+
+msgid "Cb"
+msgstr ""
+
+msgid "D"
+msgstr ""
+
+msgid "D#"
+msgstr ""
+
+msgid "Eb"
+msgstr ""
+
+msgid "E"
+msgstr ""
+
+msgid "F"
+msgstr ""
+
+msgid "F#"
+msgstr ""
+
+msgid "Gb"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "G#"
+msgstr ""
+
+msgid "Ab"
+msgstr ""
+
+msgid "A"
+msgstr ""
+
+msgid "A#"
+msgstr ""
+
+msgid "Bb"
+msgstr ""
+
+msgid "B"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Half-Step Down"
+msgstr ""
+
+msgid "Whole-Step Down"
+msgstr ""
+
+msgid "Drop D"
+msgstr ""
+
+msgid "Open G"
+msgstr ""
+
+msgid "Dadgad"
+msgstr ""
+
+msgid " Chord Library"
+msgstr ""
+
+msgid "Quick Search"
+msgstr ""
+
+msgid "Root Note:"
+msgstr ""
+
+msgid "Alterations:"
+msgstr ""
+
+msgid "Bass:"
+msgstr ""
+
+msgid "Look for more variations using open strings"
+msgstr ""
+
+msgid "Chord Type:"
+msgstr ""
+
+msgid "Choose this Chord"
+msgstr ""
+
+msgid "Undo \"%1\""
+msgstr ""
+
+msgid "Redo \"%1\""
+msgstr ""
+
+msgid "No recent files yet..."
+msgstr ""
+
+msgid "Clear this Menu"
+msgstr ""
