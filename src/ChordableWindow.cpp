@@ -3934,9 +3934,23 @@ bool ChordableWindow::writeCurrentDocumentToFile(std::wstring filename)
 
     if(db.createDB(filename) == PKDB_OK)
     {
+		PKDBErr err = PKDB_OK;
+
 		// Save the document object
-        db.createTableFromObjectProperties(CHORDABLE_DOCUMENT_TABLE_V1, this->currentDocument);
-        db.insertObjectIntoTable(CHORDABLE_DOCUMENT_TABLE_V1, this->currentDocument);
+
+		err = db.createTableFromObjectProperties(CHORDABLE_DOCUMENT_TABLE_V1, this->currentDocument);
+        
+		if(err != PKDB_OK)
+		{
+			// TODO: Do something
+		}
+		
+		err = db.insertObjectIntoTable(CHORDABLE_DOCUMENT_TABLE_V1, this->currentDocument);
+
+		if(err != PKDB_OK)
+		{
+			// TODO: Do something
+		}
 
 		// Save the bars & line breaks
 		ChordableContentObject contentObject;
