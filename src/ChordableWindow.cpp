@@ -1720,7 +1720,8 @@ void ChordableWindow::addOverheadSpacersWhereNeeded()
 
 void ChordableWindow::addChordToChordsGrid(PKChordDiagram *diagram, 
                                            std::wstring name, 
-                                           BarViewVectorControl *forBar)
+                                           BarViewVectorControl *forBar,
+                                           int forIndex)
 {
     if(diagram == NULL)
     {
@@ -1740,16 +1741,47 @@ void ChordableWindow::addChordToChordsGrid(PKChordDiagram *diagram,
         {
             BarViewVectorControl *bar = dynamic_cast<BarViewVectorControl*>(bars->getChildAt(i));
 
-            if(bar && (bar != forBar))
+            if(bar)
             {
-                if(PKChordDiagramEquivalent(bar->getChordDiagramForIndex(0), diagram) ||
-                   PKChordDiagramEquivalent(bar->getChordDiagramForIndex(1), diagram) ||
-                   PKChordDiagramEquivalent(bar->getChordDiagramForIndex(2), diagram) ||
-                   PKChordDiagramEquivalent(bar->getChordDiagramForIndex(3), diagram))
+                if(bar == forBar)
                 {
-                    found = true;
-                    break;
+                    // Check if it appears before "forIndex"
+
+                    if(PKChordDiagramEquivalent(bar->getChordDiagramForIndex(0), diagram) && forIndex > 0)
+                    {
+                        found = true;
+                        break;
+                    }
+
+                    if(PKChordDiagramEquivalent(bar->getChordDiagramForIndex(1), diagram) && forIndex > 1)
+                    {
+                        found = true;
+                        break;
+                    }
+
+                    if(PKChordDiagramEquivalent(bar->getChordDiagramForIndex(2), diagram) && forIndex > 2)
+                    {
+                        found = true;
+                        break;
+                    }
                 }
+                else
+                {
+                    if(PKChordDiagramEquivalent(bar->getChordDiagramForIndex(0), diagram) ||
+                       PKChordDiagramEquivalent(bar->getChordDiagramForIndex(1), diagram) ||
+                       PKChordDiagramEquivalent(bar->getChordDiagramForIndex(2), diagram) ||
+                       PKChordDiagramEquivalent(bar->getChordDiagramForIndex(3), diagram))
+                    {
+                        found = true;
+                        break;
+                    }
+                }
+
+            }
+
+            if(bar == forBar)
+            {
+                break; // we reached the bar
             }
         }
 
@@ -1852,13 +1884,13 @@ void ChordableWindow::refreshChordsGrid()
             if(bar)
             {
                 this->addChordToChordsGrid(bar->getChordDiagramForIndex(0),
-                                           bar->getChordNameForIndex(0), bar);
+                                           bar->getChordNameForIndex(0), bar, 0);
                 this->addChordToChordsGrid(bar->getChordDiagramForIndex(1),
-                                           bar->getChordNameForIndex(1), bar);
+                                           bar->getChordNameForIndex(1), bar, 1);
                 this->addChordToChordsGrid(bar->getChordDiagramForIndex(2),
-                                           bar->getChordNameForIndex(2), bar);
+                                           bar->getChordNameForIndex(2), bar, 2);
                 this->addChordToChordsGrid(bar->getChordDiagramForIndex(3),
-                                           bar->getChordNameForIndex(3), bar);
+                                           bar->getChordNameForIndex(3), bar, 3);
             }
         }
 

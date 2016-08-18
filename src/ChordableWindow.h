@@ -145,7 +145,8 @@ public:
 
     void addChordToChordsGrid(PKChordDiagram *diagram, 
                               std::wstring name, 
-                              BarViewVectorControl *forBar);
+                              BarViewVectorControl *forBar,
+                              int forIndex);
     void refreshChordsGrid();
 
 	void setNeedsSave();
