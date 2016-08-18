@@ -3223,7 +3223,30 @@ bool ChordableWindow::saveCurrentDocument()
 	
 	// Actually save to disk
 
-    this->writeCurrentDocumentToFile(this->currentFileName);
+    bool saveOK = this->writeCurrentDocumentToFile(this->currentFileName);
+
+	if(!saveOK)
+	{
+		PKStdDialog dialog(L"CHORDABLE_SAVE_ERROR_DIALOG",
+						    PK_STD_DIALOG_OK,
+						    this->getWindowHandle(),
+						    PK_i18n(L"Croque-Note: Error"),
+						    L"ICON");
+    		
+		PKVariantWString header(L"");
+		dialog.set(PKStdDialog::HEADER_WSTRING_PROPERTY, &header);
+    		
+		PKVariantWString text(PK_i18n(L"An unknown error occured while saving this document. Please try again."));
+		dialog.set(PKStdDialog::TEXT_WSTRING_PROPERTY, &text);
+
+		PKVariantWString icon(PK_i18n(L"res|INFO"));
+		dialog.set(PKStdDialog::ICON_WSTRING_PROPERTY, &icon);
+
+        dialog.updateUIStrings();
+		int32_t result = dialog.run();
+
+		return false;
+	}
 
 	// Update variables
 	
@@ -3942,14 +3965,14 @@ bool ChordableWindow::writeCurrentDocumentToFile(std::wstring filename)
         
 		if(err != PKDB_OK)
 		{
-			// TODO: Do something
+			return false;
 		}
 		
 		err = db.insertObjectIntoTable(CHORDABLE_DOCUMENT_TABLE_V1, this->currentDocument);
 
 		if(err != PKDB_OK)
 		{
-			// TODO: Do something
+			return false;
 		}
 
 		// Save the bars & line breaks
